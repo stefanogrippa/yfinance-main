@@ -1,0 +1,8 @@
+fromYear=2016
+Symbol=MSFT
+fromDay=1
+fromMonth=27
+period=10y
+Symbol1=SPDR
+Symbol2=JPN
+Symbol3=RACE
